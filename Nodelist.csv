@@ -1,0 +1,768 @@
+id;name;type;sex;birthyear;profession;industry;birthcity;party
+gudach;Gudula Achterberg;1;2;1965;Diplom-Betriebswirtin (FH);2;Kiel;1
+muhara;Muhterem Aras;1;2;1966;Landtagspräsidentin;1;Bingöl;1
+buestu;Bürgerstiftung Stuttgart;2;99;99;99;99;99;99
+foecol;Förderverein collegium iuvenum Stuttgart e. V. (CIS);2;99;99;99;99;99;99
+deutue;Deutsch-Türkisches Forum Stuttgart e. V.;2;99;99;99;99;99;99
+stihos;Stiftung Hospitalhof Stuttgart;2;99;99;99;99;99;99
+heiboebad;Heinrich-Böll-Stiftung Baden-Württemberg e. V.;2;99;99;99;99;99;99
+bunfue;Bund für Umwelt und Naturschutz Deutschland (BUND);2;99;99;99;99;99;99
+freundalt;Freunde und Förderer des Altenzentrums Zamenhof und Haus Hasenberg e. V.;2;99;99;99;99;99;99
+foedernes;Förderverein der Nesin-Stiftung (FöNeS) e. V.;2;99;99;99;99;99;99
+mtvstu;MTV Stuttgart 1843 e. V.;2;99;99;99;99;99;99
+susasc;Susanne Aschhoff;1;2;1971;Tierärztin;4;Nürnberg;1
+ausfue;Ausschuss für Bildung und Gesundheit der Stadt Mannheim;2;99;99;99;99;99;99
+mansag;Mannheim sagt Ja! e. V.;2;99;99;99;99;99;99
+schdeu;Schutzgemeinschaft Deutscher Wald e. V.;2;99;99;99;99;99;99
+kzged;KZ Gedenkstätte Sandhofen e. V.;2;99;99;99;99;99;99
+tierhe;Tierschutzverein Rhein-Neckar e. V.;2;99;99;99;99;99;99
+futman;Futteranker Mannheim e. V.;2;99;99;99;99;99;99
+kardo;1. Karate Do Mannheim-Schönau e. V;2;99;99;99;99;99;99
+intnor;Interessengemeinschaft Nordkultur e. V.;2;99;99;99;99;99;99
+kulund;Kultur- und Interessengemeinschaft Mannheim-Schönau e. V.;2;99;99;99;99;99;99
+spiman;Spiegelverein Mannheim-Luzenberg e. V. Fördervereine;2;99;99;99;99;99;99
+raibal;Rainer Balzer;1;1;1959;Ingenieur;5;Heidelberg;5
+amtbru;Amtsgericht Bruchsal;2;99;99;99;99;99;99
+verdeuing;Verein Deutscher Ingenieure e. V.;2;99;99;99;99;99;99
+aerhei;AeroClub Heidelberg e. V.;2;99;99;99;99;99;99
+schwie;Schützengesellschaft Wiesloch 1901 e. V.;2;99;99;99;99;99;99
+mitdes;Mitglied des Obst- und Gartenbauvereins Bad Schönborn-Mingolsheim e. V.;2;99;99;99;99;99;99
+alfbam;Alfred Bamberger;1;1;1957;Softwareentwickler;6;Eichstätt-Wintershof;5
+antbar;Anton Baron;1;1;1987;Produktmanager;2;Dshambul;5
+desera;Desiderius-Erasmus-Stiftung;2;99;99;99;99;99;99
+verkon;Verein konservativer Kommunalpolitiker in Baden-Württemberg;2;99;99;99;99;99;99
+foesol;Förderverein Solebad Niedernhall e. V.;2;99;99;99;99;99;99
+thebau;Theresia Bauer;1;2;1965;Ministerin für Wissenschaft Forschung und Kunst;1;Zweibrücken/Pfalz;1
+badsta;Badisches Staatstheater Karlsruhe;2;99;99;99;99;99;99
+wuesta;Württembergisches Staatstheater Stuttgart;2;99;99;99;99;99;99
+carzei;Carl-Zeiss-Stiftung;2;99;99;99;99;99;99
+maxpla;Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V.;2;99;99;99;99;99;99
+berbra;Berlin-Brandenburgische Akademie der Wissenschaften KöR;2;99;99;99;99;99;99
+klatsc;Klaus Tschira Stiftung gGmbH;2;99;99;99;99;99;99
+metrhe;Metropolregion Rhein-Neckar;2;99;99;99;99;99;99
+andbau;Andre Baumann;1;1;1973;Diplom-Biologe;12;Heidelberg;1
+hocfuerot;Hochschule für Forstwissenschaft Rottenburg;2;99;99;99;99;99;99
+natsch;Nationalpark Schwarzwald;2;99;99;99;99;99;99
+stinat;Stiftung Naturschutzfonds Baden-Württemberg;2;99;99;99;99;99;99
+stilan;Stiftung Landesbank Baden-Württemberg;2;99;99;99;99;99;99
+verwol;Verein Wolfgang Raufelder - Umweltschutz e. V.;2;99;99;99;99;99;99
+natdeu;Naturschutzbund Deutschland e. V. (NABU);2;99;99;99;99;99;99
+natfrerad;NaturFreunde Radolfzell e. V.;2;99;99;99;99;99;99
+schalb;Schwäbischer Albverein e. V.;2;99;99;99;99;99;99
+frenat;Freundeskreis Nationalpark Schwarzwald e. V.;2;99;99;99;99;99;99
+bunber;Bundesverband Beruflicher Naturschutz e. V.;2;99;99;99;99;99;99
+saesch;Sängerbund Schwetzingen e. V.;2;99;99;99;99;99;99
+tiesch;Tierschutzverein Schwetzingen und Umgebung e. V.;2;99;99;99;99;99;99
+fredersch;Freundeskreis der Zeyher-Grundschule. V. Schwetzingen;2;99;99;99;99;99;99
+fredes;Freundeskreis des Hebelgymnasiums Schwetzingen e. V;2;99;99;99;99;99;99
+deujug;Deutsches Jugendherbergswerk e. V.;2;99;99;99;99;99;99
+susbay;Susanne Bay;1;2;1965;Diplomverwaltungswirtin (FH);1;Crailsheim;1
+foederoff;Förderverein der Offene Hilfen gGmbH – Angebote für Menschen mit einer geistigen Behinderung e. V.;2;99;99;99;99;99;99
+verott;Verein Otto-Kirchheimer-Preis e. V.;2;99;99;99;99;99;99
+gaffoe;Gaffenberg Förderverein e. V.;2;99;99;99;99;99;99
+gafsti;Gaffenberg Stiftung;2;99;99;99;99;99;99
+foedam;Förderkreis Dammgrundschule Heilbronn e. V.;2;99;99;99;99;99;99
+foemoe;Förderverein Mönchsee-Gymnasium Heilbronn e. V.;2;99;99;99;99;99;99
+mushei;Museumsfreunde Heilbronn e. V.;2;99;99;99;99;99;99
+foelit;Förderverein Literaturhaus Heilbronn;2;99;99;99;99;99;99
+buehei;Bürgerstiftung Heilbronn;2;99;99;99;99;99;99
+heiboe;Heinrich-Böll-Stiftung;2;99;99;99;99;99;99
+natfre;NaturFreunde Deutschland;2;99;99;99;99;99;99
+gre;Greenpeace;2;99;99;99;99;99;99
+alebec;Alexander Becker;1;1;1972;Musikwissenschaftler;9;Karlsruhe;2
+lanfuepol;Landeszentrale für politische Bildung Baden-Württemberg;2;99;99;99;99;99;99
+manund;Mandolinen- und Gitarrenorchester 1924 Ötigheim e. V.;2;99;99;99;99;99;99
+bundeuzup;Bund Deutscher Zupfmusiker Landesverband Baden-Württemberg e. V.;2;99;99;99;99;99;99
+freder;Freundeskreis der Hochschule für Musik Karlsruhe e. V.;2;99;99;99;99;99;99
+hanbeh;Hans-Peter Behrens;1;1;1961;Dipl.-Ing. (FH) Elektrotechnik-Nachrichtentechnik;5;Schwäbisch Gmünd;1
+inifue;Initiative für sozial- und ökopädagogische Erziehung e. V.;2;99;99;99;99;99;99
+obsundwei;Obst- und Gartenbauverein Weitenung e. V.;2;99;99;99;99;99;99
+muswei;Musikverein Weitenung e. V;2;99;99;99;99;99;99
+trafra;Trägerverein Frauen- und Kinderschutzhaus Baden-Baden und Landkreis Rastatt e. V.;2;99;99;99;99;99;99
+patfue;Patronatsgesellschaft für Theater und Philharmonie Baden-Baden e. V.;2;99;99;99;99;99;99
+lebder;Lebenshilfe der Region Baden-Baden/Bühl/Achern e. V.;2;99;99;99;99;99;99
+sasbin;Sascha Binder;1;1;1983;Rechtsanwalt;3;99;3
+foepsy;Förderverein psychosoziale Krebsberatung im Landkreis Göppingen e. V.;2;99;99;99;99;99;99
+turgei;Turngemeinde Geislingen/Steige e. V.;2;99;99;99;99;99;99
+spoclu;Sport-Club 1900 Geislingen e. V.;2;99;99;99;99;99;99
+tenbad;Tennisclub Bad Überkingen e. V.;2;99;99;99;99;99;99
+arb;Arbeiterwohlfahrt e. V.;2;99;99;99;99;99;99
+verdi;ver.di;2;99;99;99;99;99;99
+ugafre;Uganda-Freundeskreis e. V.;2;99;99;99;99;99;99
+vfbstu;VfB Stuttgart 1893 e. V.;2;99;99;99;99;99;99
+denbir;Dennis Birnstock;1;1;1991;Biotechnologe;12;Filderstadt;4
+jugbad;Jugendstiftung Baden-Württemberg;2;99;99;99;99;99;99
+elebil;element-i Bildungsstiftung gGmbH;2;99;99;99;99;99;99
+schdes;Schülerwettbewerb des Landtags von Baden-Württemberg zur Förderung der politischen Bildung;2;99;99;99;99;99;99
+stides;Stiftung des Württembergischen Landessportbunds;2;99;99;99;99;99;99
+verdeszwefil;Verbandsversammlung des Zweckverbands Filderwasserversorgung;2;99;99;99;99;99;99
+verdeszwehoc;Verbandsversammlung des Zweckverbands Hochwasserschutz Körsch;2;99;99;99;99;99;99
+thoble;Thomas Blenke;1;1;1965;Volljurist;3;Ludwigshafen/Rhein;2
+intfor;Internationales Forum Burg Liebenzell;2;99;99;99;99;99;99
+andbog;Andrea Bogner-Unden;1;2;1955;Landtagsabgeordnete;1;Stuttgart;1
+parder;Parlamentariergruppe der Europa-Union im Landtag von Baden-Württemberg;2;99;99;99;99;99;99
+lanfuealp;Landesbeirat für Alphabetisierung und Grundbildung;2;99;99;99;99;99;99
+gemelt;Gemeinnützigen Elternstiftung Baden-Württemberg;2;99;99;99;99;99;99
+stient;Stiftung Entwicklungs-Zusammenarbeit Baden-Württemberg (SEZ);2;99;99;99;99;99;99
+lanwue;Landestheater Württemberg-Hohenzollern;2;99;99;99;99;99;99
+stisin;Stiftung „Singen mit Kindern“;2;99;99;99;99;99;99
+foeabl;Förderverein Ablachtalbahn e. V.;2;99;99;99;99;99;99
+turund;Turn- und Sportverein 1924 Wald e. V.;2;99;99;99;99;99;99
+verderfre;Verein der Freunde und Förderer der Hochschule Albstadt Sigmaringen e. V.;2;99;99;99;99;99;99
+euruni;Europa-Union Deutschland e. V.;2;99;99;99;99;99;99
+krezol;Kreisverband Zollernalbkreis;2;99;99;99;99;99;99
+deualppfu;Deutscher Alpenverein Sektion Pfullendorf;2;99;99;99;99;99;99
+frabon;Frank Bonath;1;1;1972;Dipl. Volkswirt;2;Villingen-Schwenningen;4
+lanfuenat;Landesbeirat für Natur- und Umweltschutz;2;99;99;99;99;99;99
+verber;Verein Bernhardshütte e. V;2;99;99;99;99;99;99
+danbor;Daniel Born;1;1;1975;Stellv. Landtagspräsident;1;Speyer;3
+stikin;Stiftung Kinderland;2;99;99;99;99;99;99
+bunfuemus;Bundesakademie für musikalische Jugendbildung;2;99;99;99;99;99;99
+gelhan;„Gelbe Hand –mach’ meinen Kumpel nicht an“.;2;99;99;99;99;99;99
+milsch;Mildred-Scheel-Kreis e. V. (Förderverein der Deutschen Krebshilfe);2;99;99;99;99;99;99
+awoort;AWO-Ortsverein Hockenheim;2;99;99;99;99;99;99
+awokre;AWO-Kreisvorstand;2;99;99;99;99;99;99
+plurhe;PLUS Rhein-Neckar e. V.;2;99;99;99;99;99;99
+sanbos;Sandra Boser;1;2;1976;Staatssekretärin;1;Spaichingen;1
+teafir;Teach First Deutschland in Baden-Württemberg;2;99;99;99;99;99;99
+stebra;Stephen Brauer;1;1;1970;Diplom-Handelslehrer;2;Crailsheim;4
+sposchhal;Sportkreis Schwäbisch Hall e. V. im Württembergischen Landessportbund (WLSB);2;99;99;99;99;99;99
+marbra;Martina Braun;1;2;1960;Bio-Bäuerin;7;Furtwangen;1
+katlan;Katholische Landvolkbewegung Freiburg;2;99;99;99;99;99;99
+timbue;Tim Bückner;1;1;1983;Landtagsabgeordneter;1;Schwäbisch Gmünd;2
+deualpsch;Deutscher Alpenverein Sektion Schwäbisch Gmünd;2;99;99;99;99;99;99
+worwid;World Wide Fund for Nature (WWF);2;99;99;99;99;99;99
+muesch;Münsterbauverein Schwäbisch Gmünd e. V.;2;99;99;99;99;99;99
+verderfreder;Verein der Freunde der St. Michael-Chorknaben e. V.;2;99;99;99;99;99;99
+foefre;Förderverein Freibad Bettringen e. V.;2;99;99;99;99;99;99
+salfre;Salvator-Freundeskreis e. V.;2;99;99;99;99;99;99
+pat;PATE e. V;2;99;99;99;99;99;99
+heiwal;Heimatverein Waldstetten/Wißgoldingen e. V;2;99;99;99;99;99;99
+klabur;Klaus Burger;1;1;1958;Bankkaufmann;2;Mengen;2
+leaakt;LEADER-Aktionsgruppe Oberschwaben;2;99;99;99;99;99;99
+verderfreund;Verein der Freunde und Förderer Oberschwäbischer Pilgerweg e. V.;2;99;99;99;99;99;99
+kresig;Kreisverband Sigmaringen der Schutzgemeinschaft Deutscher Wald;2;99;99;99;99;99;99
+freheu;Freilichtmuseum Heuneburg;2;99;99;99;99;99;99
+foedes;Förderverein des Benediktinerinnenklosters Unserer Lieben Frau zu Habsthal e. V.;2;99;99;99;99;99;99
+aylcat;Ayla Catalpepe;1;2;1972;MTLA;4;Göppingen;1
+ferin;FernUniversität in Hagen;2;99;99;99;99;99;99
+sebcun;Sebastian Cuny;1;1;1978;Politikwissenschaftler;12;Heidelberg;3
+parrin;Parlamentarischer Ring Volksbund Deutsche Kriegsgräberfürsorge;2;99;99;99;99;99;99
+ortsch;Ortsgruppe Schriesheim e. V.;2;99;99;99;99;99;99
+sposch;Sportverein 1919 Schriesheim e. V.;2;99;99;99;99;99;99
+einfra;Eintracht Frankfurt e. V.;2;99;99;99;99;99;99
+anddeu;Andreas Deuschle;1;1;1978;Rechtsanwalt;3;Nürtingen;2
+recstu;Rechtsanwaltskammer Stuttgart;2;99;99;99;99;99;99
+medund;Medienrat und medienpädagogischer Ausschuss des Medienrats der Landesanstalt für Kommunikation Baden-Württemberg;2;99;99;99;99;99;99
+hocfue;Hochschule für Technik Stuttgart;2;99;99;99;99;99;99
+deurotess;Deutsches Rotes Kreuz – Kreisverband Esslingen e. V.;2;99;99;99;99;99;99
+thodoe;Thomas Dörflinger;1;1;1969;Bankkaufmann;2;Laupheim;2
+ummbue;Ummendorfer Bürgerstiftung;2;99;99;99;99;99;99
+bereis;Bernhard Eisenhut;1;1;1958;Kaufmann;2;Konstanz;5
+spo;Sportschütze;2;99;99;99;99;99;99
+konepp;Konrad Epple;1;1;1963;Schlossermeister;11;Stuttgart;2
+frefeu;Freiwillige Feuerwehr;2;99;99;99;99;99;99
+neseri;Nese Erikli;1;2;1981;Projektleiterin Stiftungsmanagement;8;Heilbronn;1
+arbkom;Arbeitsgemeinschaft kommunales Kino Konstanz – Zebra Kino e.V.;2;99;99;99;99;99;99
+niegro;NIEDERBURG Große Konstanzer Narrengesellschaft 1884 e. V.;2;99;99;99;99;99;99
+deumie;Deutscher Mieterbund Bodensee e.V.;2;99;99;99;99;99;99
+verdeu;Verkehrsclub Deutschland (VCD) e.V.;2;99;99;99;99;99;99
+daneve;Daniela Evers;1;2;1971;Rechtsanwältin;3;Freiburg;1
+aufdes;Freiburger Münsterbauvereins e. V .;2;99;99;99;99;99;99
+arnfrei;Arnulf Freiherr von Eyb;1;1;1955;Rechtsanwalt;3;Heidelberg;2
+wirder;Wirtschaftsrat der CDU e.V.;2;99;99;99;99;99;99
+sekhoh;Sektion Hohenlohe/Schwäbisch Hall;2;99;99;99;99;99;99
+nicfin;Nicolas Fink;1;1;1976;Diplom-Verwaltungswirt (FH);1;Schorndorf;3
+fcess;FC Esslingen e. V.;2;99;99;99;99;99;99
+moteis;Motorsportclub „Eiserne Hand“ e.V. Aichwald;2;99;99;99;99;99;99
+musaic;Musikverein Aichschieß e.V.;2;99;99;99;99;99;99
+obsundaic;Obst- und Gartenbauverein Aichwald e.V.;2;99;99;99;99;99;99
+buezeh;Bürgerverein Zehntscheuer Nabern e.V.;2;99;99;99;99;99;99
+weirin;Weißer Ring;2;99;99;99;99;99;99
+freundwil;Freunde und Förderer der Wilhelma Stuttgart-Bad Cannstatt e.V.;2;99;99;99;99;99;99
+verderver;Verband der Verwaltungsbeamten in Baden-Württemberg e.V.;2;99;99;99;99;99;99
+verbad;Verband Baden-Württembergischer Bürgermeister e.V.;2;99;99;99;99;99;99
+sozgem;Sozialdemokratische Gemeinschaft für Kommunalpolitik e. V. Baden-Württemberg;2;99;99;99;99;99;99
+intmah;Initiative Mahlwerk KUNST KULTUR AKTION e.V.;2;99;99;99;99;99;99
+sozvdk;Sozialverband VdK Baden-Württemberg e.V.;2;99;99;99;99;99;99
+fcst;FC St. Pauli e.V.;2;99;99;99;99;99;99
+rudfis;Rudi Fischer;1;1;1954;Maschinenbau-Techniker und techn. Betriebswirt;5;Pfullingen;4
+josfre;Josef Frey;1;1;1959;Diplom-Sozialpädagoge (FH);8;Heidelberg;1
+eurkeh;Euro-Institut (Kehl);2;99;99;99;99;99;99
+carfue;Caritasverband für den Landkreis Lörrach e.V.;2;99;99;99;99;99;99
+deurot;Deutsches Rotes Kreuz;2;99;99;99;99;99;99
+intvel;Interessengemeinschaft Velo im Landkreis Lærrach e. V. (IG Velo);2;99;99;99;99;99;99
+steful;Stefan Fulst-Blei;1;1;1968;Berufsschullehrer;8;Mannheim;3
+regman;Regionalverband Mannheim/Rhein-Neckar - Arbeiter-Samariter-Bundes Landesverband Baden-Württemberg e.V. (ASB);2;99;99;99;99;99;99
+svwal;SV Waldhof Mannheim 07 e.V.;2;99;99;99;99;99;99
+steinwir;Steinbeis-Stiftung für Wirtschaftsförderung;2;99;99;99;99;99;99
+gewerz;Gewerkschaft Erziehung und Wissenschaft;2;99;99;99;99;99;99
+psyles;Psychologische Lesben- und Schwulenberatung Rhein-Neckar e. V. (PLUS);2;99;99;99;99;99;99
+chrgeh;Christian Gehring;1;1;1979;Kriminalhauptkommissar;13;Villingen-Schwenningen;2
+margen;Marion Gentges;1;2;1971;Ministerin der Justiz und für Migration;1;Haslach;2
+silger;Silke Gericke;1;2;1974;Germanistin (MA);9;Amberg;1
+bergoe;Bernd Gögel;1;1;1955;Groß- und Außenhandelskaufmann;2;Niefern;5
+julgol;Julia Goll;1;2;1964;Richterin am Landgericht;3;Hamburg;4
+rotint;Rotary International;2;99;99;99;99;99;99
+arbwai;Arbeitskreis „Waiblingen ENGAGIERT“;2;99;99;99;99;99;99
+remmur;Rems-Murr-Stiftung;2;99;99;99;99;99;99
+hangro;Hans-Jürgen Großner;1;1;1970;Industriemeister für Elektrotechnik;5;Göppingen;5
+krauhi;Krankenpflegeverein Uhingen e.V.;2;99;99;99;99;99;99
+margra;Martin Grath;1;1;1960;Bäckermeister;11;Thalfingen;1
+foenat;Förderverein Naturtheater Heidenheim e.V.;2;99;99;99;99;99;99
+nathei;Naturtheater Heidenheim e.V.;2;99;99;99;99;99;99
+skihei;Ski-Club Heidenheim e.V.;2;99;99;99;99;99;99
+tenhei;Tennis-Club Heidenheim e.V.;2;99;99;99;99;99;99
+heispo;Heidenheimer Sportbund 1846 e. V. (HSB);2;99;99;99;99;99;99
+foederkli;Förderverein der Klinik für Kinder- und Jugendmedizin am Klinikum Heidenheim e.V.;2;99;99;99;99;99;99
+brehei;Brenzpark e.V. (Heidenheim);2;99;99;99;99;99;99
+deufel;Deutscher Feldbogen Sportverband e.V. (DFBV);2;99;99;99;99;99;99
+bergri;Bernd Grimmer;1;1;1950;Diplom-Volkswirt;2;Pforzheim;5
+gergru;Gernot Gruber;1;1;1963;Politikwissenschaftler;12;Murrhardt;3
+freerh;Freundeskreis Dr. Erhard Eppler;2;99;99;99;99;99;99
+bunwin;Bundesverband Windenergie;2;99;99;99;99;99;99
+deuwel;Deutsche Welthungerhilfe;2;99;99;99;99;99;99
+buein;Bürger-Energiegenossenschaften in Backnang;2;99;99;99;99;99;99
+frihaa;Friedrich Haag;1;1;1989;Selbständiger Unternehmer;2;Stuttgart;4
+frefeustu;Freiwillige Feuerwehr Stuttgart;2;99;99;99;99;99;99
+helpfl;Helene-Pfleiderer-Stiftung;2;99;99;99;99;99;99
+denkbad;Denkmalstiftung Baden- Württemberg;2;99;99;99;99;99;99
+libmit;Liberalen Mittelstand (LIM) – Landesverband Baden-Württemberg e.V.;2;99;99;99;99;99;99
+pethae;Petra Häffner;1;2;1964;Heilpraktikerin und Physiotherapeutin;4;Schorndorf;1
+polmit;Politik mit Frauen e.V. im Rems-Murr-Kreis;2;99;99;99;99;99;99
+marhae;Martina Häusler;1;2;1964;Betriebswirtin (VWA);2;Schwäbisch Gmünd;1
+pronew;Projektgruppe NewLimes e.V.;2;99;99;99;99;99;99
+foeges;Förderverein Gesellschaft der Freunde;2;99;99;99;99;99;99
+jugsch;Jugendkulturinitiative Schwäbisch Gmünd e.V.;2;99;99;99;99;99;99
+sorint;Soroptimist International (SI);2;99;99;99;99;99;99
+clusch;Club Schwäbisch Gmünd;2;99;99;99;99;99;99
+kunkis;Kunstverein KISS Kunst im Schloss Untergröningen e.V.;2;99;99;99;99;99;99
+foegmu;Förderverein Gmünder Südstadt e.V.;2;99;99;99;99;99;99
+kireva;Kirchengemeinderat der Evangelischen Kirchengemeinde Schwäbisch Gmünd;2;99;99;99;99;99;99
+verhil;Verein Hilfe für Togo e. V.;2;99;99;99;99;99;99
+manhag;Manuel Hagel;1;1;1988;Dipl. Bankbetriebswirt;2;Ehingen;2
+bueehi;Bürgerstiftung Ehingen;2;99;99;99;99;99;99
+ernehi;Ernst-und-Anna-Rumler-Stiftung Ehingen;2;99;99;99;99;99;99
+marhah;Martin Hahn;1;1;1963;Landwirt;7;Stockach;1
+badlan;Badischen Landwirtschaftlichen Hauptverband e.V. (BLHV);2;99;99;99;99;99;99
+arbbae;Arbeitsgemeinschaft bäuerliche Landwirtschaft e.V. (AbL);2;99;99;99;99;99;99
+tenalt;Tennis-Clubs Altbirnau e.V.;2;99;99;99;99;99;99
+somueb;Sommertheater Überlingen e. V.;2;99;99;99;99;99;99
+manhai;Manuel Hailfinger;1;1;1982;Justiziar;3;Reutlingen;2
+tsvund;TSV Undingen 1910 e.V. als Schatzmeister und Vorsitzender;2;99;99;99;99;99;99
+touson;Tourismusverein Sonnenalb e.V.;2;99;99;99;99;99;99
+verbio;Verein Biosphärengebiet Schwäbische Alb e.V.;2;99;99;99;99;99;99
+marder;Marketingausschuss der Tourismusgemeinschaft Mythos Schwåbische Alb im Landkreis Reutlingen e.V.;2;99;99;99;99;99;99
+sporeu;Sportkreis Reutlingen e.V.;2;99;99;99;99;99;99
+dorkli;Dorothea Kliche-Behnke;1;2;1981;Referentin der Geschäftsleitung;16;Herdecke;3
+stpet;St. Petrus;2;99;99;99;99;99;99
+katges;Katholischen Gesamtkirchengemeinderats Tübingen;2;99;99;99;99;99;99
+famtue;Familienbildungsstätte Tübingen e.V.;2;99;99;99;99;99;99
+theamt;Theater am Torbogen e. V.;2;99;99;99;99;99;99
+tuetaf;Tübinger Tafel e. V.;2;99;99;99;99;99;99
+rueklo;Rüdiger Klos;1;1;1960;Landtagsabgeordneter;1;Heidelberg;5
+gusvon;Gustav-von-Struve-Stiftung e.V.;2;99;99;99;99;99;99
+norkno;Norbert Knopf;1;1;1967;Sozialversicherungsangestellter;8;Mannheim;1
+vfbstl;VfB St. Leon 1967 e. V.;2;99;99;99;99;99;99
+buenat;Bürgerinitiative NATUeRlich St. Leon STOP! Umgehung e.V.;2;99;99;99;99;99;99
+volsue;Volkshochschule Südliche Bergstraße e. V.;2;99;99;99;99;99;99
+cratoc;Cradle to Cradle NGO.;2;99;99;99;99;99;99
+vermet;Verein Metropolsolar Rhein-Neckar e. V.;2;99;99;99;99;99;99
+volhei;Volksbank Heidelberg eG.;2;99;99;99;99;99;99
+genbue;Genossenschaft Bürgerenergie Heidelberg.;2;99;99;99;99;99;99
+genoik;Genossenschaft Oikocredit Förderkreis Baden-Württemberg e. V.;2;99;99;99;99;99;99
+erwkoe;Erwin Köhler;1;1;1995;Kulturschaffender;9;Heilbronn;1
+radton;Radio Ton;2;99;99;99;99;99;99
+petkre;Petra Krebs;1;2;1969;Krankenschwester;4;Wangen;1
+kulwan;Kulturgemeinde Wangen im Allgäu e.V.;2;99;99;99;99;99;99
+altund;Altstadt- und Museumsverein Wangen im Allgäu e.V.;2;99;99;99;99;99;99
+parwan;Partnerschaftsverein Wangen im Allgäu e. V.;2;99;99;99;99;99;99
+stefaiwan;Steuerungsgruppe Fairtrade-Town Wangen im Allgäu.;2;99;99;99;99;99;99
+chrini;Christliche Initiative Romero e. V.;2;99;99;99;99;99;99
+winkre;Winfried Kretschmann;1;1;1948;Ministerpräsident;1;Spaichingen;1
+deumus;Deutsche Museum München;2;99;99;99;99;99;99
+sabkur;Sabine Kurtz;1;2;1961;Politische Staatssekretärin;1;Bad Hersfeld;2
+kunbad;Kunststiftung Baden-Württemberg gGmbH;2;99;99;99;99;99;99
+thestu;Theaterhaus Stuttgart e. V.;2;99;99;99;99;99;99
+trader;Trägerverein der Landesakademie für Jugendbildung in Weil der Stadt;2;99;99;99;99;99;99
+danled;Daniel Lede Abal;1;1;1976;Geschäftsführer;2;Stuttgart;1
+utelei;Ute Leidig;1;2;1963;Psychologin;4;Heidelberg;1
+tolfre;TOLLHAUS Freier Kulturverein e. V.;2;99;99;99;99;99;99
+danlin;Daniel Lindenschmid;1;1;1992;Fachinformatiker;6;Nürtingen;5
+andlin;Andrea Lindlohr;1;2;1975;Politikwissenschaftlerin;12;Königswinter;1
+foedervol;Förderverein der Volkshochschule Esslingen a. N. e. V.;2;99;99;99;99;99;99
+stileb;Stiftung Lebenshilfe Esslingen;2;99;99;99;99;99;99
+gesfue;Gesellschaft für intelligente Energie- und Ressourcennutzung e.V.;2;99;99;99;99;99;99
+gruaka;Grüne Akademie der Heinrich-Böll-Stiftung e. V.;2;99;99;99;99;99;99
+verderfreuni;Vereinigung der Freunde der Universität Tübingen e. V.;2;99;99;99;99;99;99
+amnint;Amnesty International;2;99;99;99;99;99;99
+reiloe;Reinhard Löffler;1;1;1954;Rechtsanwalt;3;Offenburg;2
+ausdes;Ausschuss des Haus- Wohnungs- und Grundeigentümerverein Stuttgart und Umgebung e.V.;2;99;99;99;99;99;99
+ortins;Ortsbusfahrer in Stuttgart-Botnang;2;99;99;99;99;99;99
+mussta;Musikverein Stadtorchester Feuerbach 1899 e.V.;2;99;99;99;99;99;99
+sielor;Siegfried Lorek;1;1;1977;Polizeioberrat;13;Freiburg;2
+frefeuwin;Freiwillige Feuerwehr Winnenden;2;99;99;99;99;99;99
+verzurfoe;Verein zur Förderung der deutschen Para Leichtathletik e.V.;2;99;99;99;99;99;99
+deualp;Deutscher Alpenverein e.V.;2;99;99;99;99;99;99
+spowin;Sportvereinigung Winnenden 1848 e.V.;2;99;99;99;99;99;99
+foerem;Förderverein Rems-Murr-Klinikum Winnenden e.V.;2;99;99;99;99;99;99
+deupol;Deutsche Polizeigewerkschaft;2;99;99;99;99;99;99
+inisic;Initiative Sicherer Landkreis Rems-Murr e. V.;2;99;99;99;99;99;99
+bezwai;Bezirksimkerverein Waiblingen und Umgebung e. V.;2;99;99;99;99;99;99
+manluc;Manfred Lucha;1;1;1961;Minister für Soziales Gesundheit und Integration;1;Oberbayern;1
+haikin;Haiti-Kinderhilfe e.V.;2;99;99;99;99;99;99
+ravjug;Ravensburger Jugendhilfe- verein e.V.;2;99;99;99;99;99;99
+verfra;Verein Frau und Gesellschaft e.V. Ravensburg;2;99;99;99;99;99;99
+ravwei;Ravensburg-Weingartener Kunstverein e.V.;2;99;99;99;99;99;99
+fusrav;Fußballverein 1893 Ravensburg e. V.;2;99;99;99;99;99;99
+winmac;Winfried Mack;1;1;1965;Dipl.-Verwaltungswissenschaftler;1;Ellwangen;2
+intmus;Internationale Musikschulakademie Kulturzentrum Schloss Kapfenburg;2;99;99;99;99;99;99
+hocaal;Hochschule Aalen – Technik und Wirtschaft;2;99;99;99;99;99;99
+thomar;Thomas Marwein;1;1;1958;Landtagsabgeordneter;1;Rastatt;1
+hocoff;Hochschule Offenburg;2;99;99;99;99;99;99
+beabad;Beamtenbund Baden-Württemberg;2;99;99;99;99;99;99
+bundeubau;Bund Deutscher Baumeister;2;99;99;99;99;99;99
+arcund;Architekten und Ingenieure Baden-Württemberg e.V.;2;99;99;99;99;99;99
+alldeu;Allgemeiner Deutscher Fahrrad-Club (ADFC) e. V.;2;99;99;99;99;99;99
+melev;Bienenpate bei Melifera e.V.;2;99;99;99;99;99;99
+verzenbad;Verbraucherzentrale Baden-Württemberg;2;99;99;99;99;99;99
+bunder;Bund der Technischen Beamten Baden-Württemberg (BTB);2;99;99;99;99;99;99
+ansmay;Ansgar Mayr;1;1;1972;Diplom-Betriebswirt;2;Karlsruhe;2
+bermet;Bernd Mettenleiter;1;1;1971;Diplom-Biologe;12;Aalen;1
+matmil;Matthias Miller;1;1;1991;Notarassessor;3;Ochsenhausen;2
+tsvste;TSV Steinenbronn 1900 e.V.;2;99;99;99;99;99;99
+wuenot;Württembergischer Notarverein e.V.;2;99;99;99;99;99;99
+deunot;Deutsche Notarrechtliche Vereinigung e. V.;2;99;99;99;99;99;99
+deujur;Deutscher Juristentag e.V.;2;99;99;99;99;99;99
+gesjun;Gesellschaft Junge Zivilrechtswissenschaft e.V.;2;99;99;99;99;99;99
+cduarb;CDU-Arbeitskreis Polizei in Böblingen;2;99;99;99;99;99;99
+kirins;Kirchenmusiker in Steinenbronn;2;99;99;99;99;99;99
+ralnen;Ralf Nentwich;1;1;1982;Realschullehrer;1;Backnang;1
+lanfuekom;Landesanstalt für Kommunikation Baden-Württemberg;2;99;99;99;99;99;99
+dorsie;Dorfgemeinschaft Siegelsberg e.V.;2;99;99;99;99;99;99
+verflu;Verein Flugmodus e.V.;2;99;99;99;99;99;99
+bezmur;Bezirksbienenzüchtervereins Murrhardt e. V.;2;99;99;99;99;99;99
+chrneu;Christine Neumann-Martin;1;2;1986;Erwachsenenbildung;8;Karlsruhe;2
+dlrort;DLRG Ortsgruppe Ettlingen e. V.;2;99;99;99;99;99;99
+jutnie;Jutta Niemann;1;2;1970;Dipl.-Physikerin;12;Bochum;1
+klibad;Klimaschutzstiftung Baden-Württemberg;2;99;99;99;99;99;99
+umwkre;Umweltzentrum Kreis Schwäbisch Hall e.V.;2;99;99;99;99;99;99
+verhoh;Verein Hohenloher Freilandmuseum e.V.;2;99;99;99;99;99;99
+foefra;Förderverein Frauen- und Kinderschutzhaus e.V. Schwäbisch Hall;2;99;99;99;99;99;99
+krelan;Kreis-Land- Frauenverband Schwäbisch Hall;2;99;99;99;99;99;99
+gutanf;Guter Anfang e.V.;2;99;99;99;99;99;99
+niknue;Niklas Nüssle;1;1;1994;Chemie- und Bauingenieur;5;Stühlingen;1
+radfri;Radsportverein Frischauf Ofter- ingen e.V. (RSV);2;99;99;99;99;99;99
+drkkre;DRK Kreisverband Waldshut;2;99;99;99;99;99;99
+juneur;Junge Europäische Föderalisten Deutschland e.V.;2;99;99;99;99;99;99
+freund;Freundes- und Förderkreis Deutsches Museum e.V.;2;99;99;99;99;99;99
+dordet;Dorfladen Dettighofen eG;2;99;99;99;99;99;99
+allgen;Allgäuer GenussManufaktur eG;2;99;99;99;99;99;99
+volkle;Volksbank Klettgau-Wutöschingen eG.;2;99;99;99;99;99;99
+petols;Petra Olschowski;1;2;1965;Journalistin;10;Stuttgart;1
+zenfue;Zentrums für Kunst und Medien (ZKM) Karlsruhe;2;99;99;99;99;99;99
+kunder;Kunstsammlung der LBBW;2;99;99;99;99;99;99
+wuekun;Württembergischer Kunstverein in Stuttgart;2;99;99;99;99;99;99
+kuestu;Künstlerhaus Stuttgart e. V.;2;99;99;99;99;99;99
+fredesfor;Freunde des Forums der Kulturen Stuttgart e. V.;2;99;99;99;99;99;99
+verzur;Verein zur Förderung des Hospiz Stuttgart e. V.;2;99;99;99;99;99;99
+natpfa;Natalie Pfau-Weller;1;2;1987;Politikwissenschaftlerin;12;Kirchheim;2
+jununi;Jungen Union;2;99;99;99;99;99;99
+frauni;Frauen Union;2;99;99;99;99;99;99
+gemder;Gemeinderat der Stadt Kirchheim unter Teck;2;99;99;99;99;99;99
+cdugem;CDU-Gemeinderatsfraktion;2;99;99;99;99;99;99
+andsch57;Andrea Schwarz;1;2;1957;Landtagsabgeordnete;1;Pforzheim;1
+andsch79;Andreas Schwarz;1;1;1979;Wirtschaftsjurist;2;Nürtingen;1
+buejes;Bürgersolaranlage Jesingen;2;99;99;99;99;99;99
+tecbue;Teckwerke Bürgerenergie eG;2;99;99;99;99;99;99
+hocnue;Hochschulbund Nürtingen-Geislingen e.V.;2;99;99;99;99;99;99
+euruniess;Europa-Union Deutschland e.V. / Kreisverband Esslingen;2;99;99;99;99;99;99
+foepal;Förderverein Palliativversorgung für die Kreiskliniken Esslingen e.V.;2;99;99;99;99;99;99
+baskul;„Bastion“ kultureller literarischer politischer Club e.V.;2;99;99;99;99;99;99
+foesch;Förderverein Schlossgymnasium Kirchheim unter Teck e.V;2;99;99;99;99;99;99
+verder;Verein der Freunde und Förderer der historischen Feuerwehrtechnik der Freiwilligen Feuerwehr Kirchheim unter Teck e.V.;2;99;99;99;99;99;99
+verkir;Verschönerungsverein Kirchheim unter Teck e.V.;2;99;99;99;99;99;99
+erisch;Erik Schweickert;1;1;1972;Professor für Internationale Weinwirtschaft;8;Pforzheim;4
+stijug;Stiftung Jugendfonds Enzkreis;2;99;99;99;99;99;99
+deusti;Deutsche Stiftung Verbraucherschutz Berlin;2;99;99;99;99;99;99
+eigabw;Eigenbetrieb Abwasserbeseitigung der Gemeinde Niefern-Öschelbronn;2;99;99;99;99;99;99
+eiggem;Eigenbetrieb Gemeindewerke der Gemeinde Niefern-Öschelbronn;2;99;99;99;99;99;99
+bundeu;Bund Deutscher Oenologen e.V.;2;99;99;99;99;99;99
+verehe;Vereinigung ehemaliger Geisenheimer (VEG) – Geisenheim Alumni Association e.V.;2;99;99;99;99;99;99
+deulan;Deutsche Landwirtschaftsgesellschaft (DLG) e.V.;2;99;99;99;99;99;99
+ameass;American Association of Wine Economists (AAWE);2;99;99;99;99;99;99
+sarsch;Sarah Schweizer;1;2;1983;Rechtsanwältin;3;Göppingen;2
+forfue;Forschungsstelle für Energiewirtschaft e.V.;2;99;99;99;99;99;99
+rotclugoe;Rotary Club Göppingen;2;99;99;99;99;99;99
+schkit;SchwabenKitz e.V.;2;99;99;99;99;99;99
+wirderuni;Wirtschaftsbeirat der Union e.V.;2;99;99;99;99;99;99
+hauwoh;Haus- Wohnungs- und Grundeigentümerverein Göppingen und Umgebung e.V.;2;99;99;99;99;99;99
+kinwie;Kinderheim Wieseneck;2;99;99;99;99;99;99
+hansck;Hans-Ulrich Sckerl;1;1;1951;Geschäftsführer;2;Weinheim;1
+pilwei;Pilgerhaus Weinheim;2;99;99;99;99;99;99
+stesee;Stefanie Seemann;1;2;1959;Soziologin;12;Mühlacker;1
+mehdem;Mehr Demokratie e.V. Baden-Württemberg;2;99;99;99;99;99;99
+polgru;PolizeiGrün e. V.;2;99;99;99;99;99;99
+petsei;Peter Seimer;1;1;1993;Steuerfahner;3;Böblingen;1
+swaspe;Swantje Sperling;1;2;1983;Politikwissenschaftlerin;12;Ludwigsburg;1
+deuleb;Deutsche Lebens-Rettungs-Gesellschaft e. V. (DLRG);2;99;99;99;99;99;99
+chrsta;Christiane Staab;1;2;1968;Bürgermeisterin a. D.;1;Karlsruhe;2
+hosaga;Hospiz Agape e.V.;2;99;99;99;99;99;99
+malhil;Malteser Hilfsdienst e.V.;2;99;99;99;99;99;99
+wilsta;Willi Stächele;1;1;1951;Rechtsanwalt;3;Rheinweiler;2
+foefue;Förderverein für krebskranke Kinder e. V. Freiburg;2;99;99;99;99;99;99
+udoste;Udo Stein;1;1;1983;Kaufmann im Einzelhandel;2;Schwäbisch Hall;5
+reh;Rehkitzrettungsverein e. V.;2;99;99;99;99;99;99
+lanbad;Landesjagdverband Baden-Württemberg e. V.;2;99;99;99;99;99;99
+katste;Katrin Steinhülb-Joos;1;2;1966;Lehrerin;1;Stuttgart;3
+erzund;Erziehung und Wissenschaft;2;99;99;99;99;99;99
+turcan;Turnverein Cannstatt 1846 e.V.;2;99;99;99;99;99;99
+verfuebad;Verein für Gemeinschaftsschulen in Baden-Württemberg e. V.;2;99;99;99;99;99;99
+joaste;Joachim Steyer;1;1;1966;Gas- und Wasserinstallateurmeister;11;Bremen;5
+andsto;Andreas Stoch;1;1;1969;Rechtsanwalt;3;Heidenheim;3
+kinbad;Kinderturnstiftung Baden-Württemberg;2;99;99;99;99;99;99
+hauder;Haus der kleinen Forscher;2;99;99;99;99;99;99
+intbac;Internationale Bachakademie Stuttgart;2;99;99;99;99;99;99
+grec;G-Recht e. V.;2;99;99;99;99;99;99
+bbu;BBU ’01 e. V.;2;99;99;99;99;99;99
+anwhei;Anwaltverein Heidenheim e.V.;2;99;99;99;99;99;99
+verfre;Verein Freie Waldorfschule Heidenheim e.V.;2;99;99;99;99;99;99
+lerfoe;LERNEN FÖRDERN – Verein zur Förderung Lernbehinderter Stadt und Kreis Heidenheim e.V.;2;99;99;99;99;99;99
+intkal;Interessengemeinschaft Kaltenburg e.V.;2;99;99;99;99;99;99
+foeschbre;Förderverein Schloss Brenz e.V.;2;99;99;99;99;99;99
+rotcluhei;Rotary-Club Heidenheim-Giengen;2;99;99;99;99;99;99
+bueuns;Bürgerverein „Unsere Voithsiedlung“ e.V.;2;99;99;99;99;99;99
+bre;Brenzpark e.V.;2;99;99;99;99;99;99
+hansto;Hans-Peter Storz;1;1;1960;Religionslehrer;1;Tuttlingen;3
+statur;Stadt-Turnverein Singen 1883 e.V.;2;99;99;99;99;99;99
+verzurkul;Verein zur Förderung des Kulturzentrums Gems im Kreuz e.V.;2;99;99;99;99;99;99
+stofue;Stolpersteine für Singen;2;99;99;99;99;99;99
+foestasin;Förderverein Stadtpark Singen e. V.;2;99;99;99;99;99;99
+ottsau;Otto-Sauter-Hilfsfond e. V.;2;99;99;99;99;99;99
+andstu;Andreas Sturm;1;1;1986;Studienrat;1;Speyer;2
+konade;Konrad-Adenauer-Stiftung e. V.;2;99;99;99;99;99;99
+deusha;Deutsche Shakespeare-Gesellschaft e.V.;2;99;99;99;99;99;99
+friof;Friends of Madingley Hall;2;99;99;99;99;99;99
+intadv;International Advisory Board;2;99;99;99;99;99;99
+marisl;Marco Island Shakespeare Festival Inc.;2;99;99;99;99;99;99
+napsha;Naples Shakespeare Festival Inc.;2;99;99;99;99;99;99
+deusin;Deutsche Sinatra Society e. V.;2;99;99;99;99;99;99
+steteu;Stefan Teufel;1;1;1972;Betriebswirt;2;Rottweil a. N.;2
+taytok;Tayfun Tok;1;1;1986;Betriebswirt;2;Ludwigsburg;1
+aletra;Alena Trauschel;1;2;1999;Studentin;12;Bobingen;4
+igmet;IG Metall;2;99;99;99;99;99;99
+juntra;Junge Transatlantiker;2;99;99;99;99;99;99
+junlib;Junge Liberale (JuLis);2;99;99;99;99;99;99
+libhoc;Liberale Hochschulgruppen (LHG);2;99;99;99;99;99;99
+libfra;Liberale Frauen (LiF);2;99;99;99;99;99;99
+gesder;Gesellschaft der Freunde des Badischen Staatstheaters e. V.;2;99;99;99;99;99;99
+fadtun;Fadime Tuncer;1;2;1969;Politologin;12;Sivas;1
+stefaisch;Steuerungsgruppe Fairtrade-Stadt Schriesheim;2;99;99;99;99;99;99
+amnintlad;Amnesty International Gruppe Ladenburg-Schriesheim;2;99;99;99;99;99;99
+metsol;MetropolSolar Rhein-Neckar e. V.;2;99;99;99;99;99;99
+tobvog;Tobias Vogt;1;1;1985;Unternehmer;2;Heilbronn;2
+skikir;Skiclub Kirchheim/Neckar e.V.;2;99;99;99;99;99;99
+foekir;Förderverein Kirchheimer Pflege-WG e.V.;2;99;99;99;99;99;99
+schkir;Schutzgemeinschaft Kirchheimer Steillagen e. V.;2;99;99;99;99;99;99
+flowah;Florian Wahl;1;1;1984;Landtagsabgeordneter;1;Stuttgart;3
+staboe;Stadtkirche Böblingen;2;99;99;99;99;99;99
+spoboe;Sportvereinigung Böblingen e. V.;2;99;99;99;99;99;99
+tobwal;Tobias Wald;1;1;1973;Bankkaufmann;2;Bühl;2
+blamit;Blasmusikverband Mittelbaden;2;99;99;99;99;99;99
+sinmit;Singen mit Kindern;2;99;99;99;99;99;99
+stesti;Steinbeis-Stiftung für Wirtschaftsförderung (StW);2;99;99;99;99;99;99
+armwal;Armin Waldbüßer;1;1;1960;Selbstständiger Kaufmann;2;Heilbronn;1
+turundwil;Turn- und Sportverein Willsbach e.V.;2;99;99;99;99;99;99
+thewal;Thekla Walker;1;2;1969;Naturpädagogin;8;Dülmen;1
+jonweb;Jonas Weber;1;1;1982;Landtagsabgeordneter;1;Schwäbisch Gmünd;3
+foetet;Förderverein tête-à-tête Rastatt e. V.eru;2;99;99;99;99;99;99
+foeuni;Förderverein Unimog-Museum e. V.;2;99;99;99;99;99;99
+inisto;Initiative Stolpersteine Rastatt e. V.;2;99;99;99;99;99;99
+dorweh;Dorothea Wehinger;1;2;1953;Erzieherin;8;Sigmaringen;1
+turundste;Turn- und Sportverein Steißlingen e. V.;2;99;99;99;99;99;99
+madalu;Madrigalchor Alu Singen;2;99;99;99;99;99;99
+nicwei;Nico Weinmann;1;1;1972;Rechtsanwalt;3;Heilbronn;4
+verhei;Verkehrsverein Heilbronn e.V.;2;99;99;99;99;99;99
+kiwclu;Kiwanis-Club Heilbronn e. V.;2;99;99;99;99;99;99
+deualphei;Deutscher Alpenverein e. V. Sektion Heilbronn;2;99;99;99;99;99;99
+borwei;Boris Weirauch;1;1;1977;Rechtsanwalt;3;Ludwigshafen am Rhein;3
+mantur;Mannheimer Turn- und Sportgesellschaft 1899 (MTG) e.V.;2;99;99;99;99;99;99
+josben;Joseph-Ben-Issachar-Süßkind-Oppenheimer-Auszeichnung;2;99;99;99;99;99;99
+badren;Badischer Rennverein Mannheim-Seckenheim e.V.;2;99;99;99;99;99;99
+karlal;Karnevalgesellschaft LALLEHAAG e.V.;2;99;99;99;99;99;99
+freundman;Freunde und Förderer des Herschelbades in Mannheim e. V.;2;99;99;99;99;99;99
+reisch;Reichsbanner Schwarz-Rot-Gold;2;99;99;99;99;99;99
+bunakt;Bund aktiver Demokraten e.V.;2;99;99;99;99;99;99
+tsvbad;TSV Badenia Feudenheim 1889 e.V.;2;99;99;99;99;99;99
+freros;Freundeskreis Rosengarten Mannheim e.V;2;99;99;99;99;99;99
+mananw;Mannheimer Anwaltsverein e.V;2;99;99;99;99;99;99
+staman;Stadtfeuerwehrverband Mannheim e.V.;2;99;99;99;99;99;99
+foestaman;Förderkreis Stadtbibliothek Mannheim e.V.;2;99;99;99;99;99;99
+rotcluman;Rotary Club Mannheim-Amphitrite;2;99;99;99;99;99;99
+foevon;Förderer von Epiphanias Feudenheim e.V.;2;99;99;99;99;99;99
+guiwol;Guido Wolf;1;1;1961;Landrat a. D.;1;Weingarten (Kreis Ravensburg);2
+intgau;Interessenverband Gäu-Neckar-Bodenseebahn;2;99;99;99;99;99;99
+hoctut;Hochschulcampus Tuttlingen Förderverein e.V.;2;99;99;99;99;99;99
+thelin;Theater Lindenhof;2;99;99;99;99;99;99
+hocfur;Hochschule Furtwangen;2;99;99;99;99;99;99
+carwol;Carola Wolle;1;2;1963;Diplom-Kauffrau;2;Heilbronn;5
+elkzim;Elke Zimmer;1;2;1966;Diplom-Handelslehrerin;8;Sindelfingen;1
+agefue;Agentur für Arbeit Mannheim;2;99;99;99;99;99;99
+proama;Prostitutionsberatungsstelle Amalie des Diakonischen Werks Mannheim;2;99;99;99;99;99;99
+verfuegem;Verein für Gemeindediakonie und Rehabilitation e.V.;2;99;99;99;99;99;99
+jusman;Justizvollzugsanstalt Mannheim;2;99;99;99;99;99;99
+oekrhe;Ökostadt Rhein-Neckar e.V.;2;99;99;99;99;99;99
+vernec;Verkehrsforum Neckarau;2;99;99;99;99;99;99
+foewil;Förderkreis Wilhelm-Wundt-Bücherei Mannheim-Neckarau e.V.;2;99;99;99;99;99;99
+sabmue;Sabine Hartmann-Müller;1;2;1962;Diplom-Betriebswirtin (FH);2;Memmingen;2
+raihas;Raimund Haser;1;1;1975;Diplom-Betriebswirt (BA);2;Wangen;2
+stikinall;Stiftung Kinderchancen Allgäu;2;99;99;99;99;99;99
+kirsti;Kirchliche Stiftung Kinder- Jugend- und Familienhilfe St. Anna;2;99;99;99;99;99;99
+stinatwur;Stiftung Naturschutzzentrum Wurzacher Ried;2;99;99;99;99;99;99
+donkul;Donauschwäbische Kulturstiftung des Landes Baden-Württemberg;2;99;99;99;99;99;99
+verhau;Verein Haus der Donauschwaben e.V.;2;99;99;99;99;99;99
+pethau;Peter Hauk;1;1;1960;Minister für Ernährung ländlichen Raum und Verbraucherschutz;1;Walldürn;2
+foest;Förderverein St. Mauritius Osterburken-Hemsbach;2;99;99;99;99;99;99
+jochau;Jochen Haußmann;1;1;1966;Diplom-Betriebswirt (DH);2;Esslingen;4
+reimai;Reinhold-Maier-Stiftung;2;99;99;99;99;99;99
+intbun;Internationale Bund in Baden-Württemberg;2;99;99;99;99;99;99
+akkorc;Akkordeon-Orchester Rommelshausen e.V.;2;99;99;99;99;99;99
+sporem;Sportkreis Rems-Murr e.V.;2;99;99;99;99;99;99
+geohei;Georg Heitlinger;1;1;1970;Landwirt;7;Bruchsal;4
+uwehel;Uwe Hellstern;1;1;1960;Diplom-Chemiker;12;Nordstetten;5
+volimk;Volksbank eG im Kreis Freudenstadt;2;99;99;99;99;99;99
+spaban;Sparda-Bank Baden-Württemberg eG;2;99;99;99;99;99;99
+deuver;Deutscher Verein des Gas- und Wasserfaches e.V.;2;99;99;99;99;99;99
+obsund;Obst- und Gartenbauverein Horb a. N.-Dettensee e.V.;2;99;99;99;99;99;99
+thohen;Thomas Hentschel;1;1;1964;Rechtsanwalt;3;Bad Hersfeld;1
+verdermit;Versorgungswerk der Mitglieder der Landtage von Nordrhein-Westfalen Brandenburg und Baden-Württemberg;2;99;99;99;99;99;99
+hauundras;Haus- und Grundstückseigentümerverein Rastatt e.V.;2;99;99;99;99;99;99
+hauundger;Haus- und Grundstückseigentümerverein Gernsbach e.V.;2;99;99;99;99;99;99
+alldeuras;Allgemeiner Deutscher Fahrrad-Club Rastatt e.V.;2;99;99;99;99;99;99
+jossai;JosefSaier-Stiftung e.V.;2;99;99;99;99;99;99
+verh2;Verein H2-Region Schwarzwald-Baar-Heuberg e.V.;2;99;99;99;99;99;99
+frefre;Freundeskreis Fregatte Baden-Württemberg e.V.;2;99;99;99;99;99;99
+felher;Felix Herkens;1;1;1995;Student;16;Pforzheim;1
+dgbkre;DGB-Kreisverbands Pforzheim/ Enzkreis;2;99;99;99;99;99;99
+aidhil;AIDS-Hilfe Pforzheim e.V.;2;99;99;99;99;99;99
+verdisch;ver.di. Schiedsrichter der Blindenfußball-Bundesliga;2;99;99;99;99;99;99
+winher;Winfried Hermann;1;1;1952;Mitglied des Landtags;1;Rottenburg;1
+bunfueele;Bundesnetzagentur für Elektrizität Gas Telekommunikation Post und Eisenbahnen;2;99;99;99;99;99;99
+olihil;Oliver Hildenbrand;1;1;1988;Psychologe;4;Wertheim;1
+lanfue;Landesbeirat für Armutsbekämpfung und Prävention;2;99;99;99;99;99;99
+lanfueakz;Landesbeirat für Akzeptanz und gleiche Rechte Baden-Württemberg;2;99;99;99;99;99;99
+berdeu;Berufsverband Deutscher Psychologinnen und Psychologen.;2;99;99;99;99;99;99
+voekre;Völklinger Kreis e.V.;2;99;99;99;99;99;99
+deuaid;Deutsche Aids-Hilfe e.V.;2;99;99;99;99;99;99
+verderber;Verein der Freundinnen und Freunde des Schwulen Museums in Berlin e.V.;2;99;99;99;99;99;99
+deuisr;Deutsch-Israelische Gesellschaft e.V.;2;99;99;99;99;99;99
+buefin;Bürgerbewegung Finanzwende e.V.;2;99;99;99;99;99;99
+inssol;Institut Solidarische Moderne e.V.;2;99;99;99;99;99;99
+lesund;Lesben- und Schwulenverband in Deutschland e.V.;2;99;99;99;99;99;99
+foepro;Förderverein Pro Asyl e.V.;2;99;99;99;99;99;99
+ullhoc;Ulli Hockenberger;1;1;1956;Bürgermeister;1;99;2
+hanhoe;Hans-Peter Hoerner;1;1;1951;Oberstudienrat a. D.;1;Singen;5
+zendeu;Zentralverband Deutscher Rassekaninchenzüchter (ZDRK);2;99;99;99;99;99;99
+wuepre;Württembergischer Preisrichterverband (Zuchtrichter);2;99;99;99;99;99;99
+jonhof;Jonas Hoffmann;1;1;1985;Wirtschaftsinformatiker;6;Lörrach;3
+schdur;Schubert-Durand-Stiftung;2;99;99;99;99;99;99
+duabad;Dualumni Baden-Wuerttemberg;2;99;99;99;99;99;99
+nichof;Nicole Hoffmeister-Kraut;1;2;1972;Ministerin für Wirtschaft Arbeit und Tourismus;1;Balingen;2
+evages;Evangelische Gesamtkirchengemeinde Balingen;2;99;99;99;99;99;99
+sicbal;Sichelschule Balingen;2;99;99;99;99;99;99
+gesderbal;Gesamtelternbeirat der Balinger Schulen;2;99;99;99;99;99;99
+verderfrebal;Verein der Freunde und Förderer der Sichelschule Balingen;2;99;99;99;99;99;99
+psyzol;Psychiatriestiftung Zollernalb;2;99;99;99;99;99;99
+eltdes;Elternbeirat des Gymnasiums Balingen;2;99;99;99;99;99;99
+baltaf;Balinger Tafel;2;99;99;99;99;99;99
+foedesbal;Förderverein des Gymnasiums Balingen e.V.;2;99;99;99;99;99;99
+klahoh;Klaus Hoher;1;1;1968;Landwirt;7;Überlingen;4
+reiundgra;Reit- und Fahrclub Grasbeuren e.V.;2;99;99;99;99;99;99
+foestialt;Förderverein Stiftung Alten-und Pflegeheim Wespach;2;99;99;99;99;99;
+reiundsal;Reit- und Fahrverein Salem e.V.;2;99;99;99;99;99;99
+reiundail;Reit- und Fahrverein Ailingen e.V.;2;99;99;99;99;99;99
+cinhol;Cindy Holmberg;1;2;1975;Wirtschaftskorrespondentin;2;Reutlingen;1
+eltam;Elternvertreterin am Kepler-Gymnasium;2;99;99;99;99;99;99
+aerohn;Ärzte ohne Grenzen e.V.;2;99;99;99;99;99;99
+isahub;Isabell Huber;1;2;1987;Master of Arts – Public Management;16;Heilbronn;2
+foedessie;Förderung des Siebenbürgischen Museum Gundelsheim e.V.;2;99;99;99;99;99;99
+jugwue;Jugendförderverein Wüstenrot e.V.;2;99;99;99;99;99;99
+micjou;Michael Joukov;1;1;1981;Dipl.-Wirtschaftswissenschaftler;2;St. Petersburg;1
+tagulm;Tagesmuetterverein Ulm e.V.;2;99;99;99;99;99;99
+foeneu;Förderverein Neue Synagoge Ulm e.V.;2;99;99;99;99;99;99
+bunfuefre;Bundesverband für freie Kammern e.V.;2;99;99;99;99;99;99
+spo193;Sportverein 1939 Thalfingen e.V.;2;99;99;99;99;99;99
+tieulm;Tierschutzverein Ulm e.V.;2;99;99;99;99;99;99
+chrjun;Christian Jung;1;1;1977;Historiker;12;Heidelberg;4
+kolnec;Kolpingsfamilie Neckargemünd;2;99;99;99;99;99;99
+aktzwe;Aktionsbündniss Zweite Rheinbrücke Wörth-Karlsruhe;2;99;99;99;99;99;99
+helkan;HelfenKannJeder e.V.;2;99;99;99;99;99;99
+lioclu;Lions Club Kraichgau-Hügelland;2;99;99;99;99;99;99
+dankar;Daniel Karrais;1;1;1990;Maschinenbauingenieur;5;Tübingen;4
+drkkrerot;DRK-Kreisverband Rottweil e.V.;2;99;99;99;99;99;99
+volrot;Volkshochschule Rottweil;2;99;99;99;99;99;99
+h2reg;H2-Region Schwarzwald-Baar-Heuberg e.V.;2;99;99;99;99;99;99
+frewae;Freundeskreis Wärmestube Rottweil e.V.;2;99;99;99;99;99;99
+herkat;Hermann Katzenstein;1;1;1969;Diplom-Physiker;12;Münster;1
+adfkre;ADFC-Kreisverbands Rhein-Neckar/ Heidelberg;2;99;99;99;99;99;99
+metsolrhe;MetropolSolar Rhein-Neckar e.V.;2;99;99;99;99;99;99
+flunec;Flüchtlingshilfe Neckarbischofsheim e.V.;2;99;99;99;99;99;99
+waifue;Waibstadter Initiative für Flüchtlinge e.V.;2;99;99;99;99;99;99
+arbwaib;Arbeiterverein Waibstadt;2;99;99;99;99;99;99
+turmau;Turnverein Mauer e.V.;2;99;99;99;99;99;99
+cam;Campact;2;99;99;99;99;99;99
+andken;Andreas Kenner;1;1;1956;Groß- und Außenhandelskaufmann und Altenpfleger;2;Kirchheim unter Teck;3
+betess;Betreuungsverein Esslingen e.V.;2;99;99;99;99;99;99
+turkiru;Turngemeinde Kirchheim unter Teck e.V.;2;99;99;99;99;99;99
+foeschdia;Förderverein Schwäbischer Dialekt e.V.;2;99;99;99;99;99;99
+schder;Schirmherr der schwäbischen Bläserphilharmonie Neckar-Teck e.V.;2;99;99;99;99;99;99
+catker;Catherine Kern;1;2;1961;Sprachdozentin und bersetzerin;9;Großbritannien;1
+stinatund;Stiftungsjugend Natur und Heimat der Sparkasse Hohenlohe;2;99;99;99;99;99;99
+kulhoh;Kulturstiftung Hohenlohe;2;99;99;99;99;99;99
+stikre;Stiftungsrat Kreis Hohenlohe;2;99;99;99;99;99;99
+weymus;Weygang-Museum;2;99;99;99;99;99;99
+timker;Timm Kern;1;1;1972;Gymnasiallehrer;1;Tübingen;4
+traund;Träger- und Förderverein Ehemalige Synagoge Rexingen;2;99;99;99;99;99;99
+akader;Akademie der Diözese Rottenburg-Stuttgart;2;99;99;99;99;99;99
+abgzuz;Abgeordneten zur Beratung mit dem Sprecherrat der Landesarbeitsgemeinschaft der Gedenkstätten und Gedenkstätteninitiativen in Baden-Württemberg (LAGG);2;99;99;99;99;99;99
+migklau;Miguel Klauß;1;1;1986;Staatlich geprüfter Technischer Betriebswirt;5;Nagold;5
+reipix;Reinhold Pix;1;1;1955;Diplom Forstwirt;7;Stuttgart;1
+alblud;Albert-Ludwigs-Universität Freiburg;2;99;99;99;99;99;99
+foeumwdre;Förderung umweltgerechter Verkehrsplanung Dreisam–Tuniberg–Kaiserstuhl (VLO) e.V.;2;99;99;99;99;99;99
+biover;Bioland Verband für organisch-biologischen Landbau e.V.;2;99;99;99;99;99;99
+dem;Demeter e.V.;2;99;99;99;99;99;99
+kaiwei;Kaiserstühler Weingüter e.V.;2;99;99;99;99;99;99
+slodeu;Slow-food Deutschland e.V.;2;99;99;99;99;99;99
+badwei;Badischer Weinbauverband e.V.;2;99;99;99;99;99;99
+grualt;Grüne und Alternative in den Räten von Baden-Württemberg (GAR);2;99;99;99;99;99;99
+walfrei;Waldorfschulverein Freiburg-Rieselfeld e.V.;2;99;99;99;99;99;99
+jugihr;Jugendförderverein Ihringen-Wasenweiler e.V.;2;99;99;99;99;99;99
+winmen;Winterhalter in Menzenschwand e.V.;2;99;99;99;99;99;99
+cluthu;Club Thurnerspur St. Märgen e.V.;2;99;99;99;99;99;99
+bersch;Bergwacht Schwarzwald e.V.Ortsgruppe Wutach;2;99;99;99;99;99;99
+raipod;Rainer Podeswa;1;1;1957;Physiker;12;Gelsenkirchen;5
+thopor;Thomas Poreski;1;1;1963;Diplom-Pädagoge;8;Tübingen;1
+speoly;Special Olympics Baden-Württemberg e.V;2;99;99;99;99;99;99
+stizei;Stiftung Zeit für Menschen;2;99;99;99;99;99;99
+alldeuaut;Allgemeiner Deutscher Automobil-Club (ADAC);2;99;99;99;99;99;99
+reuini;Reutlinger Initiative deutsche und ausländische Familien gGmbH;2;99;99;99;99;99;99
+kinhab;Kinder haben Rechte e.V.;2;99;99;99;99;99;99
+micpreu;Michael Preusch;1;1;1975;Arzt;4;Heilbronn-Neckargartach;2
+auswei;Ausschuss Weiterbildung der Bezirksärztekammer Nordbaden;2;99;99;99;99;99;99
+ausnot;Ausschuss „Notfallmedizin“ und „Medizinische Ausbildung Hochschulen“ der Landesärztekammer Baden-Württemberg;2;99;99;99;99;99;99
+aermar;Ärztegewerkschaft Marburger Bund;2;99;99;99;99;99;99
+deugesfueint;Deutschen Gesellschaft für internistische Intensivmedizin und Notfallmedizin e.V;2;99;99;99;99;99;99
+deugesfuekar;Deutschen Gesellschaft für Kardiologie-Herz- und Kreislaufforschung e.V;2;99;99;99;99;99;99
+fredermax;Freundeskreis der Max-Weber-Schule Sinsheim e.V.;2;99;99;99;99;99;99
+klaran;Klaus Ranger;1;1;1961;Bankfachwirt;2;Heilbronn;3
+spohei;Sportkreises Heilbronn e.V.;2;99;99;99;99;99;99
+jugkir;Jugendfreizeitstätte Kirche und Sport am Breitenauer See e.V.;2;99;99;99;99;99;99
+buepro;Bürgerinitiative pro Region Heilbronn-Franken e. V.;2;99;99;99;99;99;99
+patrap;Patrick Rapp;1;1;1969;Diplom Forstwirt;7;Stuttgart;2
+heiundmusmen;Heimatgeschichte und Museen in Mengen e.V.;2;99;99;99;99;99;99
+skiobe;Skiclubs Oberried e.V.;2;99;99;99;99;99;99
+kksstw;K.K. Schützenverein St. Wilhelm 1934 e.V.;2;99;99;99;99;99;99
+foederfreiobe;Förderverein der Freiwilligen Feuerwehr Oberried e.V.;2;99;99;99;99;99;99
+nicraz;Nicole Razavi;1;2;1965;Politikerin;1;Hongkong;2
+denbad;Denkmalstiftung Baden-Württemberg;2;99;99;99;99;99;99
+hocstinue;Hochschulstiftung Nürtingen-Geislingen;2;99;99;99;99;99;99
+tursta;Turngaus Staufen e. V.;2;99;99;99;99;99;99
+wolrei;Wolfgang Reinhart;1;1;1956;Rechtsanwalt;3;Bad Mergentheim;2
+sue;Südwestrundfunk;2;99;99;99;99;99;99
+mfgmed;MFG Medien- und Filmgesellschaft Baden-Württemberg mbH;2;99;99;99;99;99;99
+statot;Staatlichen Toto Lotto GmbH Baden-Württemberg;2;99;99;99;99;99;99
+flustu;Flughafen Stuttgart GmbH;2;99;99;99;99;99;99
+badwueban;Baden-Württembergischen Bank;2;99;99;99;99;99;99
+lanbadwue;Landesbank Baden-Württemberg;2;99;99;99;99;99;99
+fecclutau;Fecht-Club Tauberbischofsheim e. V.;2;99;99;99;99;99;99
+nikrei;Nikolai Reith;1;1;1969;Versicherungsmakler;2;Lahr;4
+buedon;Bürgerstiftung Donaueschingen;2;99;99;99;99;99;99
+liocludon;Lions Club Donaueschingen;2;99;99;99;99;99;99
+marriv;Martin Rivoir;1;1;1960;Diplom-Ingenieur;5;Ulm;3
+mieulm;Mieterverein Ulm/Neu-Ulm e.V.;2;99;99;99;99;99;99
+foefredesulm;Förderverein „Freunde des Ulmer Zelts e.V.“;2;99;99;99;99;99;99
+ssvulm;SSV Ulm 1846 des Deutschen Alpenvereins (DAV) e.V.;2;99;99;99;99;99;99
+eurdon;Europäischen DonauAkademie gemeinnützige GmbH.;2;99;99;99;99;99;99
+janroe;Jan-Peter Röderer;1;1;1986;Molekularbiologe;12;Eberbach;3
+rinpol;Ring politischer Jugend;2;99;99;99;99;99;99
+indber;Industriegewerkschaft Bergbau Chemie Energie;2;99;99;99;99;99;99
+marroe;Markus Rösler;1;1;1961;Landschaftsökologe;7;Stuttgart;1
+iunint;IUCN-WCPA International Union for Conservation of Nature World Commission on Protected Areas;2;99;99;99;99;99;99
+johsti;Johannes-Rebmann-Stiftung;2;99;99;99;99;99;99
+frederstudesdeu;Freunde der Studienstiftung des Deutschen Volkes;2;99;99;99;99;99;99
+frewil;Freundeskreis Wilhelma;2;99;99;99;99;99;99
+schmitenz;Schutzgemeinschaft Mittleres Enztal;2;99;99;99;99;99;99
+foejohkul;Förderverein Johannes-Kullen-Schule Korntal;2;99;99;99;99;99;99
+foeblaens;Förderverein Bläserklasse Ensingen-Horrheim;2;99;99;99;99;99;99
+foetvv;Förderverein TV Vaihingen;2;99;99;99;99;99;99
+heiger;Heimatpflegeverein Gerlingen;2;99;99;99;99;99;99
+tsvens;TSV Ensingen;2;99;99;99;99;99;99
+gabroll;Gabriele Rolland;1;2;1963;Diplom-Verwaltungswirtin;2;Kenzingen;3
+fraund;Frauen- und Kinderschutzhaus;2;99;99;99;99;99;99
+jugfre;Jugendberatung Freiburg e.V.;2;99;99;99;99;99;99
+kre;Kreisverkehrswacht;2;99;99;99;99;99;99
+nacfre;Nachbarschaftswerk Freiburg;2;99;99;99;99;99;99
+obdfue;Obdach für Frauen;2;99;99;99;99;99;99
+ortderkre;Ortsältestenrat der Kreuz-Luthergemeinde Freiburg;2;99;99;99;99;99;99
+wesost;West-Ost-Gesellschaft;2;99;99;99;99;99;99
+hanrue;Hans-Ulrich Rülke;1;1;1961;Politiker;1;Tuttlingen;4
+hocpfo;Kuratoriums der Hochschule Pforzheim;2;99;99;99;99;99;99
+sozmit;Sozialverein Miteinander Leben e.V;2;99;99;99;99;99;99
+lanfeu;Landesfeuerwehrverband Baden-Württemberg e. V.;2;99;99;99;99;99;99
+rubrup;Ruben Rupp;1;1;1990;Wirtschaftswissenschaftler;2;Mutlang;5
+kralei;Kraftsportclub Leintal e.V.;2;99;99;99;99;99;99
+barsae;Barbara Saebel;1;2;1959;Politikerin;1;Berlin;1
+dendes;Denkmalrat des Wirtschaftsministeriums;2;99;99;99;99;99;99
+tieett;Tierschutzverein Ettlingen;2;99;99;99;99;99;99
+staett;Stadtbau Ettlingen GmbH.;2;99;99;99;99;99;99
+emisae;Emil Sänze;1;1;1950;Geschäftsführer;2;Beuren;5
+nadsai;Nadyne Saint-Cast;1;2;1979;Politikwissenschaftlerin;12;Mühlheim;1
+einsch;Eine Schule für alle e.V.;2;99;99;99;99;99;99
+deufam;Deutscher Familienverband e.V.;2;99;99;99;99;99;99
+alesal;Alexander Salomon;1;1;1986;Politiker;1;Karlsruhe;1
+fredesnat;Freunde des Naturkundemuseums Karlsruhe e.V;2;99;99;99;99;99;99
+lanbadeur;Landesvereinigung Baden in Europa e.V.;2;99;99;99;99;99;99
+hockar;Hochschule Karlsruhe – Technik und Wirtschaft (HsKA);2;99;99;99;99;99;99
+karint;Karlshochschule International University;2;99;99;99;99;99;99
+frenatkar;Freundeskreises Naturschutzzentrum Karlsruhe-Rappenwärt e.V;2;99;99;99;99;99;99
+volsch;Volker Schebesta;1;1;1971;Staatssekretär;1;Oberkirch;2
+erzfre;Erzdiözese Freiburg;2;99;99;99;99;99;99
+dorsoe;Dorfhelferinnenwerks Sölden e. V;2;99;99;99;99;99;99
+hansch;Hans Dieter Scheerer;1;1;1958;Rechtsanwalt;3;Crailsheim;4
+stiana;Stiftung UNÁMONOS;2;99;99;99;99;99;99
+naraha;Narrenzunft Aha Weil der Stadt e.V.;2;99;99;99;99;99;99
+katsch;Katrin Schindele;1;2;1987;Entwicklungsingenieurin;5;Freudenstadt;2
+spohop;Sportverein Hopfau 1932 e.V.;2;99;99;99;99;99;99
+turbai;Turnverein 1893 Baiersbronn e.V.;2;99;99;99;99;99;99
+mustra;Musikverein Trachtenkapelle Mitteltal e.V.;2;99;99;99;99;99;99
+klemit;Kleintierzuchtverein Mitteltal-Obertal Z 501 e.V.;2;99;99;99;99;99;99
+trabai;Trachtenblasorchester Baiersbronn e.V.;2;99;99;99;99;99;99
+alesch;Alexander Schoch;1;1;1954;Politologe;12;Freiburg;1
+komkin;Kommunales Kino Waldkirch e.V.;2;99;99;99;99;99;99
+natfrewal;Naturfreunde Waldkirch;2;99;99;99;99;99;99
+autclu;Auto Club Europa e.V.;2;99;99;99;99;99;99
+skiwal;Skiclub Waldkirch;2;99;99;99;99;99;99
+spowal;Sportvereins Waldkirch (SVW);2;99;99;99;99;99;99
+fcwal;FC Waldkirch;2;99;99;99;99;99;99
+walbes;Waldkircher Bescha_ftigungs- initiative e.V. (WABE);2;99;99;99;99;99;99
+wiwald;WiWalDi (Wohninitiative Waldkirch);2;99;99;99;99;99;99
+narkra;Narrenzunft Krakeelia;2;99;99;99;99;99;99
+triato;trinationaler Atom- Schutzverband (TRAS);2;99;99;99;99;99;99
+deutag;Deutsches Tagebucharchiv;2;99;99;99;99;99;99
+oekins;öko-Institut;2;99;99;99;99;99;99
+raddre;Radio Dreyeckland;2;99;99;99;99;99;99
+foefoe;Förderverein Förderschule;2;99;99;99;99;99;99
+albsch;Albrecht Schütte;1;1;1970;Physiker;12;Heidelberg;2
+deulebbam;Deutsche Lebens-Rettungs-Gesellschaft e.V. (DLRG) Ortsgruppe Bammental;2;99;99;99;99;99;99
+walfoe;Waldschwimmbad-Förderverein Bammental e.V.;2;99;99;99;99;99;99
+augsch;August Schuler;1;1;1957;Gastronom;16;Ravensburg;2
+kyfsol;Kyffhäuser Soldatenkameradschaft (SK) Ravensburg 1840 e.V.;2;99;99;99;99;99;99
+voldeukri;Volksbunds Deutsche Kriegsgräberfürsorge (VDK) Ravensburg.;2;99;99;99;99;99;99
+vdkbez;VDK-Bezirksverbands Südbaden-Südwürttemberg;2;99;99;99;99;99;99
+frederneu;Freundeskreis der neuen Kapelle im Krankenhaus St. Elisabeth e.V.;2;99;99;99;99;99;99
+foebur;Förderverein Burghaldentorkel e.V.;2;99;99;99;99;99;99
+deukro;Deutsch-Kroatische Gesellschaft e.V. / Deutsch-Kroatischer Freundeskreis Ravensburg;2;99;99;99;99;99;99
+buezuk;Bürgerstiftung „Zukunft Altstadt Ravensburg“;2;99;99;99;99;99;99
+tecwer;Technische Werke Schussental GmbH & Co. KG (TWS);2;99;99;99;99;99;99
+oberav;OberschwabenHallen Ravensburg GmbH;2;99;99;99;99;99;99
+heigei;Heilig-Geist-Spital Ravensburg;2;99;99;99;99;99;99
